@@ -1,0 +1,230 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "ai_vision",
+      "userProfile": "https://i.pravatar.cc/50?img=1",
+      "postImage": "https://picsum.photos/id/1011/600/600",
+      "caption": "The future is now 🤖✨ #ArtificialIntelligence",
+      "likes": 300,
+      "comments": [
+        {
+          "username": "tech_guru",
+          "text": "AI is taking over 🔥"
+        }
+      ],
+      "timestamp": "1 hour ago"
+    },
+    {
+      "id": 2,
+      "username": "fashion_icon",
+      "userProfile": "https://i.pravatar.cc/50?img=2",
+      "postImage": "https://picsum.photos/id/1005/600/600",
+      "caption": "Streetwear is life 👟💯 #OOTD",
+      "likes": 210,
+      "comments": [
+        {
+          "username": "style_squad",
+          "text": "You slayed this!"
+        }
+      ],
+      "timestamp": "2 hours ago"
+    },
+    {
+      "id": 3,
+      "username": "space_dreams",
+      "userProfile": "https://i.pravatar.cc/50?img=3",
+      "postImage": "https://picsum.photos/id/1020/600/600",
+      "caption": "Stargazing into the unknown 🌌🚀",
+      "likes": 320,
+      "comments": [
+        {
+          "username": "astro_lover",
+          "text": "Beautiful capture!"
+        }
+      ],
+      "timestamp": "3 hours ago"
+    },
+    {
+      "id": 4,
+      "username": "tech_updates",
+      "userProfile": "https://i.pravatar.cc/50?img=4",
+      "postImage": "https://picsum.photos/id/103/600/600",
+      "caption": "Just unboxed the latest gadget 📱⚡",
+      "likes": 285,
+      "comments": [
+        {
+          "username": "geek_mode",
+          "text": "I want this!"
+        }
+      ],
+      "timestamp": "4 hours ago"
+    },
+    {
+      "id": 5,
+      "username": "gym_vibes",
+      "userProfile": "https://i.pravatar.cc/50?img=5",
+      "postImage": "https://picsum.photos/id/1050/600/600",
+      "caption": "No pain, no gain 💪🔥 #FitnessFreak",
+      "likes": 400,
+      "comments": [
+        {
+          "username": "fit_nation",
+          "text": "Beast mode on!"
+        }
+      ],
+      "timestamp": "5 hours ago"
+    },
+    {
+      "id": 6,
+      "username": "food_cravings",
+      "userProfile": "https://i.pravatar.cc/50?img=6",
+      "postImage": "https://picsum.photos/id/1049/600/600",
+      "caption": "Weekend cheat meal 🍔🍟",
+      "likes": 270,
+      "comments": [
+        {
+          "username": "food_addict",
+          "text": "So tempting!"
+        }
+      ],
+      "timestamp": "6 hours ago"
+    },
+    {
+      "id": 7,
+      "username": "pet_lovers",
+      "userProfile": "https://i.pravatar.cc/50?img=7",
+      "postImage": "https://picsum.photos/id/237/600/600",
+      "caption": "My best friend 🐶❤️ #PetLife",
+      "likes": 310,
+      "comments": [
+        {
+          "username": "paw_pal",
+          "text": "Awwww 😍"
+        }
+      ],
+      "timestamp": "7 hours ago"
+    },
+    {
+      "id": 8,
+      "username": "world_explorer",
+      "userProfile": "https://i.pravatar.cc/50?img=8",
+      "postImage": "https://picsum.photos/id/1018/600/600",
+      "caption": "Chasing sunsets across the globe 🌍🌅",
+      "likes": 450,
+      "comments": [
+        {
+          "username": "traveler_joe",
+          "text": "Where is this?!"
+        }
+      ],
+      "timestamp": "8 hours ago"
+    },
+    {
+      "id": 9,
+      "username": "adventure_junkie",
+      "userProfile": "https://i.pravatar.cc/50?img=9",
+      "postImage": "https://picsum.photos/id/1002/600/600",
+      "caption": "Cliff diving thrills 🧗‍♂️🫨 #AdrenalineRush",
+      "likes": 360,
+      "comments": [
+        {
+          "username": "wild_one",
+          "text": "So fearless!"
+        }
+      ],
+      "timestamp": "9 hours ago"
+    },
+    {
+      "id": 10,
+      "username": "sports_today",
+      "userProfile": "https://i.pravatar.cc/50?img=10",
+      "postImage": "https://picsum.photos/id/1033/600/600",
+      "caption": "Game night goals ⚽🏆",
+      "likes": 295,
+      "comments": [
+        {
+          "username": "team_spirit",
+          "text": "Who's winning?"
+        }
+      ],
+      "timestamp": "10 hours ago"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "mass_raja_vfc",
+   "userProfile": "https://i.pravatar.cc/50?img=1"
+
+  },
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "ai_vision",
+      "userProfile": "https://i.pravatar.cc/50?img=1"
+    },
+    {
+      "id": 2,
+      "username": "fashion_icon",
+      "userProfile": "https://i.pravatar.cc/50?img=2"
+    },
+    {
+      "id": 3,
+      "username": "tech_traveler",
+      "userProfile": "https://i.pravatar.cc/50?img=3"
+    },
+    {
+      "id": 4,
+      "username": "daily_bites",
+      "userProfile": "https://i.pravatar.cc/50?img=4"
+    },
+    {
+      "id": 5,
+      "username": "artistic_soul",
+      "userProfile": "https://i.pravatar.cc/50?img=5"
+    },
+    {
+      "id": 6,
+      "username": "fitness_mania",
+      "userProfile": "https://i.pravatar.cc/50?img=6"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "username": "nature_explorer",
+      "userProfile": "https://i.pravatar.cc/150?img=21",
+      "storyImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+    },
+    {
+      "id": 2,
+      "username": "food_cravings",
+      "userProfile": "https://i.pravatar.cc/150?img=26",
+      "storyImage": "https://images.unsplash.com/photo-1546069901-eacef0df6022"
+    },
+    {
+      "id": 3,
+      "username": "ocean_vibes",
+      "userProfile": "https://i.pravatar.cc/150?img=35",
+      "storyImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+      "id": 4,
+      "username": "street_snap",
+      "userProfile": "https://i.pravatar.cc/150?img=42",
+      "storyImage": "https://images.unsplash.com/photo-1520975918312-7da29d4b27d1"
+    },
+    {
+      "id": 5,
+      "username": "coffee_addict",
+      "userProfile": "https://i.pravatar.cc/150?img=52",
+      "storyImage": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+    },
+    {
+      "id": 6,
+      "username": "adventure_gal",
+      "userProfile": "https://i.pravatar.cc/150?img=58",
+      "storyImage": "https://images.unsplash.com/photo-1493244040629-496f6d136cc3"
+    }
+  ]
+}

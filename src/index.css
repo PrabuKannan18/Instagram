@@ -1,0 +1,108 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.fs-14{
+  font-size: 14px !important;
+}
+
+.sidebar {
+  width: 250px;
+  border-right: 1px solid #dbdbdb;
+  background-color: white;
+}
+
+.logo {
+  width: 120px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 1.1rem;
+  padding: 10px 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  border-radius: 8px;
+}
+
+.bi {
+  font-size: 23px;
+}
+
+.nav-item:hover {
+  background-color: #f2f2f2;
+}
+
+.nav-item.active {
+  font-weight: 600;
+}
+
+.w-20{
+    width: 20%;
+}
+
+.w-30{
+    width: 30%;
+}
+
+
+.stories{
+    height: 100px;
+}
+
+.posts-wrapper {
+  width: 100%;
+}
+
+.post-card {
+  width: 470px;
+  background-color: #fff;
+}
+
+.dp {
+  width: 38px;
+  height: 37px;
+  object-fit: cover;
+}
+
+.userName {
+  font-size: 14px;
+}
+
+.post-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.suggestions {
+    width: 50%;
+}
+
+
+.story-ring {
+  width: 83px;
+  height: 83px;
+  border-radius: 50%;
+  padding: 2px;
+  background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+}
+
+.dp-story {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.dp-profile{
+  width: 30px;
+}
+
+/* .bi-emoji-smile{
+  font-size: 17px !important;
+} */
