@@ -1,11 +1,11 @@
 import data from '../db/db.json'
-// import './Sidebar.css';
+import logo from './assets/instagram.png'; 
 
 function SideBar() {
   return (
     <div className="sidebar d-flex flex-column justify-content-between position-fixed h-100 py-4 px-3">
       <div>
-        <img src="src/assets/instagram.png" alt="Instagram Logo" className="logo mb-4" />
+        <img src={logo} alt="Instagram Logo" className="logo mb-4" />
 
         <div className="nav-item active"><i className="bi bi-house-door"></i>Home</div>
         <div className="nav-item"><i className="bi bi-search"></i>Search</div>

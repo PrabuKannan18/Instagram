@@ -3,7 +3,7 @@ import data from '../db/db.json';
 
 function Stories() {
   return (
-    <div className="story-bar d-flex gap-3  justify-content-center px-3 py-2">
+    <div className="story-bar d-flex gap-3  justify-content-center px-3 py-2 mt-2">
       {data.stories.length > 0 ? (
         data.stories.map((story) => (
           <div key={story.id} className="text-center">
