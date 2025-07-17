@@ -22,7 +22,6 @@ function SideBar() {
 
         <div className="nav-item"><i className="bi bi-heart"></i>Notifications</div>
         <div className="nav-item"><i className="bi bi-file-plus"></i>Create</div>
-        <div className="nav-item"><i className="bi bi-person-circle"></i>Profile</div>
         <div className="nav-item"><i className="bi bi-bar-chart"></i>Dashboard</div>
         <div className='nav-item'>
           <img src={data.profile.userProfile} className='dp-profile rounded-circle' alt="" />
